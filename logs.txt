@@ -1,0 +1,16 @@
+2025-06-03 21:56:30 - Sem gesto
+2025-06-03 21:56:36 - Mao aberta detectada! Acendendo luzes de emergencia
+2025-06-03 21:56:39 - Sem gesto
+2025-06-03 21:56:49 - Mao aberta detectada! Acendendo luzes de emergencia
+2025-06-03 21:56:52 - Sem gesto
+2025-06-03 21:56:57 - Mao aberta detectada! Acendendo luzes de emergencia
+2025-06-03 21:57:00 - Sem gesto
+2025-06-03 21:57:03 - Dedo indicador levantado detectado! Acionando modo seguro
+2025-06-03 21:57:06 - Sem gesto
+2025-06-03 21:57:09 - Punhos fechados detectados! SOCORRO
+2025-06-03 21:57:12 - Sem gesto
+2025-06-03 21:59:06 - Sem gesto
+2025-06-03 21:59:12 - Mao aberta detectada! Acendendo luzes de emergencia
+2025-06-03 21:59:15 - Sem gesto
+2025-06-03 21:59:22 - Mao aberta detectada! Acendendo luzes de emergencia
+2025-06-03 21:59:25 - Sem gesto
